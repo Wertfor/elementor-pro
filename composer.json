@@ -1,0 +1,26 @@
+{
+  "name": "envato/elementor-pro",
+  "description": "Mirror of the \"Elementor Pro\" WordPress plugin, made to work with Composer.",
+  "homepage": "https://github.com/envato/elementor-pro",
+  "keywords": [
+    "wordpress"
+  ],
+  "authors": [
+    {
+      "name": "Elementor Ltd",
+      "homepage": "https://elementor.com/"
+    },
+    {
+      "name": "Envato",
+      "homepage": "https://envato.com/"
+    }
+  ],
+  "support": {
+      "issues": "https://github.com/envato/elementor-pro/issues",
+      "source": "https://github.com/envato/elementor-pro"
+  },
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+   }
+}
